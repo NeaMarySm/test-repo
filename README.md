@@ -7,3 +7,4 @@ hello
 correct2
 
 git got git is a gitgit 
+lineconflict
